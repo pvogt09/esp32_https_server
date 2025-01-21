@@ -13,6 +13,7 @@ jobs:
           - HTML-Forms
           - HTTPS-and-HTTP
           - Middleware
+          - Middleware-Remove
           - Parameters
           - Parameter-Validation
           - Put-Post-Echo
